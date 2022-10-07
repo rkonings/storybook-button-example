@@ -7,6 +7,8 @@
 node_modules/
 dist/
 
+storybook-static
+
 # Compiled Java class files
 *.class
 
